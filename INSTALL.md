@@ -136,6 +136,9 @@ cp examples/tutorial/first.cc scratch/myfirst.cc
 ./waf
 # Run
 ./waf --run scratch/myfirst
+
+# Or
+./waf --run examples/tutorial/first
 ```
 
 ## Build and Run First App (Python)
